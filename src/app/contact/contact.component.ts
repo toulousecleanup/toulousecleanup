@@ -5,7 +5,7 @@ import {Component} from '@angular/core';
   	templateUrl: './contact.component.html'
 })
 export class ContactComponent {
-	name = "Antoine Bonnin"
-	address  = "bonnin.anto@gmail.com"
-	phone = "06.47.09.05.79"
+	name = "Alexis Eskenazi"
+	address  = "alex.eske@laposte.net"
+	phone = "06.31.46.44.21"
 }
