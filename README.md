@@ -46,6 +46,8 @@ What about the backend ?
 The backend for this website is running on http://toulousecleanup.pythonanywhere.com/
 The source code is at: https://github.com/toulousecleanup/backend
 
+The frontend will keep working untill backend stays the same.
+
 Ask Alexis Eskenazi for the login / password.
 
 What about the Sigfox devices ?
@@ -53,4 +55,4 @@ What about the Sigfox devices ?
 The devices are managable on the SigFox backend: https://backend.sigfox.com/device/list
 Ask Alexis Eskenazi for the login / password.
 
-Devices source code is available at: https://github.com/toulousecleanup/sigfoxDevices
+Devices source code is available at: https://github.com/toulousecleanup/sigfoxDevices. The README.md of sigfoxDevices repo contains a lot of information, you may want to read it.
